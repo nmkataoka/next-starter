@@ -4,9 +4,6 @@
     "files.trimTrailingWhitespace": true,
     "editor.insertSpaces": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "eslint.options": {
-        "extensions": [".js", ".jsx", ".ts", ".tsx"]
-    },
     "css.validate": false,
     "less.validate": false,
     "scss.validate": false,
